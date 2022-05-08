@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ariane-itetero
-- 🌱 I’m currently learning front-end skills such as vue.js and angular
+- 👋 Hi, I’m Ariane ITETERO
+- 🌱 I’m currently learning front-end skills.
 - 📫 How to reach me arianeitetero@gmail.com
 
 <!---
