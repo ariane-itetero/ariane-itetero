@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ariane ITETERO
-- 🌱 I’m currently learning front-end skills.
+- 🌱 I’m currently a frontend developer.
+- I use Reactjs and angular js during frontend development
+- For mobile app, I use React native and flutter.
 - 📫 How to reach me arianeitetero@gmail.com
 
 <!---
