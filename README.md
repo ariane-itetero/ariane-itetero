@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Ariane ITETERO
-- 🌱 I’m currently a frontend developer.
-- I use Reactjs and angular js during frontend development
-- For mobile app, I use React native and flutter.
-- 📫 How to reach me arianeitetero@gmail.com
+# Ariane ITETERO
 
-<!---
-ariane-itetero/ariane-itetero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack Developer
+
+As a professional full-stack developer and designer, my passion lies in creating user-friendly and aesthetically pleasing web pages and interactive interfaces. However, my expertise is not limited to technology alone
+
+## Skills
+
+JavaScript  
+TypeScript  
+React.js  
+Next.js  
+Angular  
+HTML  
+CSS  
+Tailwind CSS  
+Git & GitHub  
+
+## Contact
+
+GitHub: https://github.com/ariane-itetero  
+Email: arianeitetero@gmail.com
